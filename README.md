@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Leonardo Mitsuhara
+# 🤓 Leonardo Mitsuhara
 
 **`Desenvolvedor FullStack`**
 
